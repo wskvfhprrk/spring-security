@@ -70,7 +70,7 @@ authentication(身份验证)，authorization(授权)，Principal（原则）,Gra
 principal(原则)——身份认证后会把其身份绑定到访问上下文中,不需要用户再登陆验证了，程序应该记住用户。
 
 ## 第三课 如何将spring security添加到spring boot中
-[spring boot集成spring security](../spring-boot-starter-security/README.md)
+[spring boot集成spring security](spring-boot-starter-security/README.md)
 
 ## 第四课 怎么让spring security对多用户进行身份验证和验证
 
@@ -195,3 +195,14 @@ isAuthenticated——身份验证是否成功(成功即为True,没有成功即�
 身份验证后个人信息统一使用`UserDetailsService`中的loadUserByUserName()来检索，如果认证成功，身份信息和权限的对象`UserDetails`放入`Principal`。
 
 每个`providerManager`使用`supports()`方法处理身份验证至到身份验证成功。
+
+如果验证不成功，则会抛出异常，异常信息最终会抛给用户。
+
+## 每七课 如何使用jdbc建立spring security
+
+[spring-security-jdbc](spring-security-jdbc/README.md)
+
+## 第八课 如何使用jpa建立spring security
+
+[spring-security-jpa](spring-security-jpa/README.md)
+
