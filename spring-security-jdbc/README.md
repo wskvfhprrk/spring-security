@@ -1,4 +1,4 @@
-# pspring security jdbc
+# spring security jdbc
 
 ## 导入依赖包web、spring secuity和jdbc api及mysql driver ，注意不要使用h2依赖
 
