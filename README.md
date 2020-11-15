@@ -70,7 +70,7 @@ authentication(身份验证)，authorization(授权)，Principal（原则）,Gra
 principal(原则)——身份认证后会把其身份绑定到访问上下文中,不需要用户再登陆验证了，程序应该记住用户。
 
 ## 第三课 如何将spring security添加到spring boot中
-[spring boot集成spring security](tree/main/spring-boot-starter-security/README.md)
+[spring boot集成spring security](../../tree/main/spring-boot-starter-security/README.md)
 
 ## 第四课 怎么让spring security对多用户进行身份验证和验证
 
