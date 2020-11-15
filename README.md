@@ -206,3 +206,8 @@ isAuthenticated——身份验证是否成功(成功即为True,没有成功即�
 
 [spring-security-jpa](../../tree/main/spring-security-jpa/README.md)
 
+## 第九课 如何使用ldap建立spring security(略)
+
+## 第十课 Jwt认证
+[spring-security-jwt](../../tree/main/spring-security-jwt/README.md)
+
