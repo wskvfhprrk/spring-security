@@ -200,9 +200,9 @@ isAuthenticated——身份验证是否成功(成功即为True,没有成功即�
 
 ## 每七课 如何使用jdbc建立spring security
 
-[spring-security-jdbc](spring-security-jdbc/README.md)
+[spring-security-jdbc](../../tree/main/spring-security-jdbc/README.md)
 
 ## 第八课 如何使用jpa建立spring security
 
-[spring-security-jpa](spring-security-jpa/README.md)
+[spring-security-jpa](../../tree/main/spring-security-jpa/README.md)
 
